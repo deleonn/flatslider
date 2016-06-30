@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-border-sizing: border-box;
+  -moz-border-sizing: border-box;
+  -ms-border-sizing: border-box;
+  -o-border-sizing: border-box;
+  border-sizing: border-box;
+}
+html,body{
+  
+}
